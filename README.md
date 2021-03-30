@@ -58,7 +58,6 @@ Leftmost monitor:
     - [TodoList](https://store.kde.org/p/1152230/)
     - Stock KDE System Monitor Widgets
   - #### Bar
-    - ##### In order they appear, left to right
     - Stock KDE Application Launcher
     - [Virtual Desktop Bar](https://www.pling.com/p/1315319)
     - Stock KDE Icons-only Task Manager
