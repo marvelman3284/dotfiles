@@ -5,27 +5,27 @@
 
 ## Screenshots
 <img src="Pictures/Screenshot_20210329_170418.png">
-*Leftmost monitor: 
+Leftmost monitor: 
   - top left: vscode
   - bottom left: neofetch
   - top right: htop
-  - bottom right: dolphin*
+  - bottom right: dolphin
 
-*Rightmost monitor: 
+Rightmost monitor: 
   - left half: firefox 
   - top right: nvim 
-  - bottom right: discord*
-<img src="Pictures/Screenshot_20210329_.170634.png">
-*Leftmost monitor: 
+  - bottom right: discord
+<img src="Pictures/Screenshot_20210329_170634.png">
+Leftmost monitor: 
   - top left: neofetch 
   - bottom left: firefox
-  - right half: discord*
+  - right half: discord
 
-<img src="Pictures/Screenshot_20210329_.172048.png">
-*Leftmost monitor: 
+<img src="Pictures/Screenshot_20210329_172048.png">
+Leftmost monitor: 
   - left half: firefox 
   - top right: spotify 
-  - bottom right: cbonsai*
+  - bottom right: cbonsai
 
 ## Stuff
 
@@ -46,16 +46,13 @@
 
 ### Nvim
   - Neovim dotfiles [here](https://github.com/siduck76/neovim-dots)
-
 ### Konsole
   - Color Schemes can be found in `.local/share/konsole`
-
 ### Widgets
   - #### Desktop
     - Stock KDE Media Player
     - [TodoList](https://store.kde.org/p/1152230/)
     - Stock KDE System Monitor Widgets
-
   - #### Bar
     - ##### In order they appear, left to right
     - Stock KDE Application Launcher
@@ -64,7 +61,6 @@
     - Stock KDE Color Picker
     - [Event Calendar](https://www.pling.com/p/998901)
     - Stock KDE Show Desktop
-
 ### KDE
   - #### Global Theme
     - [Ocean](https://store.kde.org/p/1427580/)
@@ -80,7 +76,6 @@
     - [Nordic Darker](https://store.kde.org/p/1327093/)
   - #### Cursors
     - Stock KDE Breeze Cursors
-
 
 ## Release History
 
