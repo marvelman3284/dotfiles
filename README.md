@@ -5,6 +5,7 @@
 
 ## Screenshots
 <img src="Pictures/Screenshot_20210329_170418.png">
+
 Leftmost monitor: 
   - top left: vscode
   - bottom left: neofetch
@@ -15,13 +16,16 @@ Rightmost monitor:
   - left half: firefox 
   - top right: nvim 
   - bottom right: discord
+
 <img src="Pictures/Screenshot_20210329_170634.png">
+
 Leftmost monitor: 
   - top left: neofetch 
   - bottom left: firefox
   - right half: discord
 
 <img src="Pictures/Screenshot_20210329_172048.png">
+
 Leftmost monitor: 
   - left half: firefox 
   - top right: spotify 
