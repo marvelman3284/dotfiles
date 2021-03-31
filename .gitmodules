@@ -4,3 +4,9 @@
 [submodule "deepbluetheme"]
 	path = deepbluetheme
 	url = https://github.com/OnScreenProton/deepbluetheme
+[submodule "discord/midnightcord"]
+	path = discord/midnightcord
+	url = https://github.com/spinfish/midnightcord
+[submodule "discord/deepbluetheme"]
+	path = discord/deepbluetheme
+	url = https://github.com/OnScreenProton/deepbluetheme
