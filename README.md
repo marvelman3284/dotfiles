@@ -80,6 +80,17 @@ Leftmost monitor:
   - #### Cursors
     - Stock KDE Breeze Cursors
 
+### Discord
+  - #### Theme/Plugin Manager
+    - [Powercord](https://powercord.dev)
+  - #### Plugins
+    - Only the stock [Powercord](https://powercord.dev) ones
+  - #### Themes
+    - [midnightcord](https://github.com/spinfish/midnightcord)
+    - [deepbluetheme](https://github.com/OnScreenProton/deepbluetheme)
+  
+  >>> Although the folder is named `discord` you shouldn't place the theme folders inside of your discord folder. The files belong in `/directory/where/powercord-is-installed/src/Powercord/themes/`
+
 ## Release History
 
 * 0.0.1
