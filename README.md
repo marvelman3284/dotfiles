@@ -89,10 +89,14 @@ Leftmost monitor:
     - [midnightcord](https://github.com/spinfish/midnightcord)
     - [deepbluetheme](https://github.com/OnScreenProton/deepbluetheme)
   
->>> Although the folder is named `discord` you shouldn't place the theme folders inside of your discord folder. The files belong in `/directory/where/powercord-is-installed/src/Powercord/themes/`
+> Although the folder is named `discord` you shouldn't place the theme folders inside of your discord folder. The files belong in `/directory/where/powercord-is-installed/src/Powercord/themes/`
 
 ## Release History
 
+* 0.0.3
+  * Add in my discord configs - *31/03/2021*
+* 0.0.2
+  * Add in my konsole configs - *30/03/2021*
 * 0.0.1
     * First batch of commits that contain my main dotfiles - *29/03/2021*
 
