@@ -1,0 +1,6 @@
+[submodule "powercord/src/Powercord/themes/midnightcord"]
+	path = midnightcord
+	url = https://github.com/spinfish/midnightcord
+[submodule "deepbluetheme"]
+	path = deepbluetheme
+	url = https://github.com/OnScreenProton/deepbluetheme
