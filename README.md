@@ -101,9 +101,9 @@ Leftmost monitor:
     * First batch of commits that contain my main dotfiles - *29/03/2021*
 
 ## Credits
-[Neovim configs from @Siduck76](https://github.com/siduck76/neovim-dots)
-[Firefox theme, blurredfox, from @manilarome](https://github.com/manilarome/blurredfox)
-Idea to make `~` a git repo from [@XECortex](https://github.com/XECortex/dots) who got the idea from [@phisch](https://github.com/phisch/dotfiles)
+* [Neovim configs from @Siduck76](https://github.com/siduck76/neovim-dots)
+* [Firefox theme, blurredfox, from @manilarome](https://github.com/manilarome/blurredfox)
+* Idea to make `~` a git repo from [@XECortex](https://github.com/XECortex/dots) who got the idea from [@phisch](https://github.com/phisch/dotfiles)
 
 ## Meta
 
